@@ -1,0 +1,6 @@
+{
+  "name": "KhodroYar | خودرویار",
+  "description": "سوپراپلیکیشن جامع خودرو؛ بازار معاملات خودرو (مدل دیوار)، مزایده‌های آنلاین لحظه‌ای، قیمت‌گذاری هوشمند با هوش مصنوعی و پنل نمایشگاه‌داران کشور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
